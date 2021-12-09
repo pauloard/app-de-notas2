@@ -46,5 +46,5 @@ switch (comando){
         break;
     default:
         console.log("No entiendo que hacer");
-        break;
+        break; 
 }
